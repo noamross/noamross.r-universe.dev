@@ -1,2 +1,6 @@
 [
+  {
+    "package": "mgcv",
+    "url": "https://github.com/noamross/mgcv"
+  }
 ]
