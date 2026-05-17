@@ -2,5 +2,8 @@
   {
     "package": "mgcv",
     "url": "https://github.com/noamross/mgcv"
+  },
+  { "package": "duckspending",
+    "url": "https://usaspending.grant-witness.us/r-package/duckspending.git"
   }
 ]
