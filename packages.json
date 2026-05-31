@@ -6,5 +6,9 @@
   {
     "package": "duckspending",
     "url": "https://usaspending.grant-witness.us/r-package/duckspending.git"
+  },
+  {
+    "package": "RD1",
+    "url": "https://github.com/noamross/RD1"
   }
 ]
