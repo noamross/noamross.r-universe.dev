@@ -10,5 +10,9 @@
   {
     "package": "RD1",
     "url": "https://github.com/noamross/RD1"
+  },
+  {
+    "package": "airtable2",
+    "url": "https://github.com/noamross/airtable2"
   }
 ]
