@@ -14,9 +14,5 @@
   {
     "package": "airtable2",
     "url": "https://github.com/noamross/airtable2"
-  },
-  {
-    "package": "ggwordstream",
-    "url": "https://github.com/noamross/ggwordstream"
   }
 ]
